@@ -59,6 +59,7 @@ Here is a list of agents available on the A2A Hub. You can find more details and
 
 *   [Google A2A GitHub](https://github.com/a2aproject/A2A)
 *   [A2A Hub](https://a2a.build)
+- [HostDeFi](https://hostdefi.com/) - DEX front-end with a live A2A agent card (/.well-known/agent.json): agents can scan tokens (A+–F safety grades), price swaps and pay per call in USDC via x402.
 
 ## Contributing
 
